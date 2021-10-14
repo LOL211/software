@@ -10,7 +10,7 @@ public class TestDaysMonthV1 {
 	// Add your answer to the four test cases for Q1
 	@Test
 	public void testQ1_1() {
-		System.out.println("test");
+		
 	}
 
 	@Test
